@@ -1,0 +1,26 @@
+_repo: The-United-States-Marine-Corps-in-the-World-War_70782
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McClellan, Edwin N.
+    gutenberg_agent_id: '55924'
+    url: http://www.gutenberg.org/2009/agents/55924
+description: ''
+gutenberg_issued: '2023-05-16'
+identifiers:
+  gutenberg: '70782'
+language: en
+pgterms:marc905: 20150329150933mcclellan
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Brian Coe, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bGovernment Printing Office, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The United States Marine Corps in the World War
+url: http://www.gutenberg.org/ebooks/70782
