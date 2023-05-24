@@ -1,11 +1,16 @@
 _repo: The-United-States-Marine-Corps-in-the-World-War_70782
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70782-h/images/cover.jpg
 creator:
   author:
     agent_name: McClellan, Edwin N.
     gutenberg_agent_id: '55924'
     url: http://www.gutenberg.org/2009/agents/55924
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70782#The-United-States-Marine-Corps-in-the-World-War
 gutenberg_issued: '2023-05-16'
 identifiers:
   gutenberg: '70782'
